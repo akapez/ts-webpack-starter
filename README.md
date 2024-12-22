@@ -1,4 +1,4 @@
-# TypeScript Webpack Image Handling Example
+# TypeScript + Webpack Starter Template
 
 A minimal starter for building TypeScript projects with Webpack. It includes a simple counter and an example of importing and displaying an image.
 
